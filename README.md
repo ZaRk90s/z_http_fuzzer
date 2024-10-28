@@ -39,8 +39,8 @@ Example:
 
 ## To-do
 ---
-- [] Improve the threads.
-- [] Specify which HTTP Status Code show
-- [] Change the Headers of a HTTP Request
-- [] Subdomains enumeration
-- [] Bypass the firewall
+- [ ] Improve the threads.
+- [ ] Specify which HTTP Status Code show
+- [ ] Change the Headers of a HTTP Request
+- [ ] Subdomains enumeration
+- [ ] Bypass the firewall
